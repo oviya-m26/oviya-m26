@@ -6,7 +6,6 @@
 
 Building scalable data pipelines, analytics solutions, and intelligent software.
 
-Currently learning **Spring Boot** while strengthening my foundation in **Java** and **Data Structures & Algorithms**.
 
 </div>
 
@@ -133,93 +132,6 @@ Computer Vision project for adaptive traffic management.
 ### Technologies
 
 `Python` • `YOLOv8` • `OpenCV` • `MySQL`
-
----
-
-## SQL Interview Prep
-
-A structured repository documenting my SQL learning journey.
-
-Topics include
-
-- SQL Fundamentals
-- Joins
-- CTEs
-- Window Functions
-- Views
-- Stored Procedures
-- Triggers
-- Transactions
-- Query Optimization
-- LeetCode SQL
-
----
-
-# Technology Stack
-
-## Languages
-
-- Java
-- SQL
-- Python
-
-## Data Engineering
-
-- Apache Airflow
-- ETL Pipelines
-- Data Transformation
-- Snowflake
-
-## Databases
-
-- MySQL
-- Snowflake
-- Milvus
-
-## Machine Learning
-
-- Scikit-Learn
-- Natural Language Processing
-- AI Embeddings
-- Vector Search
-
-## Analytics
-
-- Power BI
-- Dashboard Development
-- KPI Reporting
-- Microsoft Excel
-
-## Backend
-
-- Spring Boot *(Currently Learning)*
-- REST APIs
-
----
-
-# Certifications
-
-- Oracle Cloud Infrastructure AI Foundations Associate
-- Oracle Cloud Infrastructure 2025 Generative AI Professional
-- Meta Backend Developer Professional Certificate
-- Java DSA (Udemy)
-
----
-
-# Experience
-
-### Data Engineering Intern
-
-**Intellect Design Arena Limited**
-
-Worked on ETL pipelines for financial datasets using Python, Apache Airflow and MySQL.
-
-Key contributions
-
-- Automated data ingestion
-- Built transformation workflows
-- Improved reporting pipelines
-- Performed data validation and quality checks
 
 ---
 
