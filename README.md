@@ -79,7 +79,6 @@ Semantic internship recommendation platform using vector embeddings and intellig
 
 🔗 https://github.com/oviya-m26/applicant-aura
 
-
 ---
 
 ### Starvation-Aware Traffic Signal Optimization
@@ -89,6 +88,8 @@ Vision-based adaptive traffic signal system using YOLOv8 for lane-wise vehicle d
 **Tech**
 
 `Python` • `OpenCV` • `YOLOv8` • `MySQL`
+
+🔗 https://github.com/oviya-m26/predictive-traffic-signal-control
 
 ---
 
