@@ -105,20 +105,4 @@ Vision-based adaptive traffic signal system using YOLOv8 for lane-wise vehicle d
 
 ---
 
-<img src="https://img.shields.io/badge/Connect-EAB308?style=for-the-badge"/>
-
-**GitHub**
-
-https://github.com/oviya-m26
-
-**LinkedIn**
-
-https://linkedin.com/in/oviya-m-a390132a8
-
-**LeetCode**
-
-https://leetcode.com/u/ovi2605/
-
----
-
 
