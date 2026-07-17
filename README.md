@@ -79,15 +79,6 @@ Semantic internship recommendation platform using vector embeddings and intellig
 
 🔗 https://github.com/oviya-m26/applicant-aura
 
----
-
-### PhishGuardAI
-
-Machine Learning application that detects phishing and AI-generated scam emails using Natural Language Processing.
-
-**Tech**
-
-`Python` • `Scikit-Learn` • `NLP`
 
 ---
 
@@ -114,35 +105,6 @@ Vision-based adaptive traffic signal system using YOLOv8 for lane-wise vehicle d
 
 ---
 
-<img src="https://img.shields.io/badge/Experience-EAB308?style=for-the-badge"/>
-
-### Data Engineering Intern — Intellect Design Arena
-
-- Built ETL pipelines for financial datasets
-- Automated ingestion and transformation workflows
-- Performed data validation and quality checks
-- Improved reporting and analytics processes
-
----
-
-<img src="https://img.shields.io/badge/Certifications-EAB308?style=for-the-badge"/>
-
-- Oracle Cloud Infrastructure AI Foundations Associate
-- Oracle Cloud Infrastructure 2025 Generative AI Professional
-- Meta Backend Developer Professional Certificate
-- Java DSA (Udemy)
-
----
-
-<img src="https://img.shields.io/badge/Currently_Building-EAB308?style=for-the-badge"/>
-
-- SQL Interview Preparation Repository
-- Spring Boot REST APIs
-- Java DSA
-- Data Engineering Portfolio Projects
-
----
-
 <img src="https://img.shields.io/badge/Connect-EAB308?style=for-the-badge"/>
 
 **GitHub**
@@ -159,28 +121,4 @@ https://leetcode.com/u/ovi2605/
 
 ---
 
-```java
-public class Engineer {
 
-    public static void main(String[] args) {
-
-        while (true) {
-
-            learn();
-
-            build();
-
-            improve();
-
-            repeat();
-
-        }
-    }
-}
-```
-
-<div align="center">
-
-*"Turning raw data into meaningful insights, one pipeline at a time."*
-
-</div>
