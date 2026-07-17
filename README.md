@@ -4,177 +4,183 @@
 
 ### Data Engineering • SQL • Machine Learning
 
-Building scalable data pipelines, analytics solutions, and intelligent software.
+Building scalable data pipelines, analytics solutions and intelligent software.
 
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
 </div>
 
 ---
 
-# Engineering Profile
+<img src="https://img.shields.io/badge/About_Me-EAB308?style=for-the-badge"/>
 
 ```yaml
 Name: Oviya
-
-Education:
-  Bachelor of Engineering
-  Information Science Engineering
 
 Primary Domain:
   Data Engineering
 
 Interests:
-  - Data Pipelines
-  - SQL Engineering
-  - Analytics
-  - Machine Learning
-  - Backend Development
+  • Data Engineering
+  • SQL
+  • Machine Learning
+  • Backend Development
 
 Currently Learning:
-  - Spring Boot
-  - Advanced SQL
-  - Java DSA
+  • Spring Boot
+  • Advanced SQL
+  • Java DSA
 ```
 
 ---
 
-# Featured Work
+<img src="https://img.shields.io/badge/Featured_Projects-EAB308?style=for-the-badge"/>
 
-## Mutual Fund Performance Analytics
+### Mutual Fund Performance Analytics
 
-End-to-end data engineering project for collecting, transforming and visualizing Mutual Fund NAV and benchmark data.
+Designed an end-to-end ETL pipeline to ingest, transform and analyze Mutual Fund NAV and benchmark datasets with automated Airflow workflows and Power BI dashboards.
 
-### What I built
-
-- Automated ETL pipeline
-- Data ingestion and transformation
-- Historical NAV tracking
-- SQL analytical datasets
-- Power BI dashboards
-- Scheduled workflows using Apache Airflow
-
-### Technologies
+**Tech**
 
 `Python` • `SQL` • `Apache Airflow` • `Snowflake` • `Power BI`
 
-Repository → https://github.com/oviya-m26/fund-performance-analytics
+🔗 https://github.com/oviya-m26/fund-performance-analytics
 
 ---
 
-## Vendor Performance Analytics Dashboard
+### Vendor Performance Analytics Dashboard
 
-Interactive analytics platform built for procurement analysis and KPI reporting.
+Interactive analytics dashboard for procurement KPIs, vendor performance monitoring and business reporting.
 
-### Highlights
+**Tech**
 
-- Vendor performance analysis
-- Procurement trend analysis
-- KPI dashboards
-- Data cleaning using Python
-- Interactive business reports
+`Python` • `SQL` • `Power BI`
 
-### Technologies
-
-`Python` • `Power BI` • `SQL`
-
-Repository → https://github.com/oviya-m26/vendor-performance-dashboard
+🔗 https://github.com/oviya-m26/vendor-performance-dashboard
 
 ---
 
-## ApplicantAura
+### ApplicantAura
 
-Semantic internship recommendation platform using vector search.
+Semantic internship recommendation platform using vector embeddings and intelligent similarity search.
 
-### Highlights
-
-- Resume similarity search
-- Internship recommendation engine
-- Semantic embeddings
-- Automated internship indexing
-
-### Technologies
+**Tech**
 
 `Python` • `Flask` • `Milvus` • `SBERT`
 
-Repository → https://github.com/oviya-m26/applicant-aura
+🔗 https://github.com/oviya-m26/applicant-aura
 
 ---
 
-## PhishGuardAI
+### PhishGuardAI
 
-Machine Learning system for identifying phishing and AI-generated scam emails.
+Machine Learning application that detects phishing and AI-generated scam emails using Natural Language Processing.
 
-### Highlights
-
-- NLP preprocessing
-- Email classification
-- Real-time prediction
-- Machine Learning pipeline
-
-### Technologies
+**Tech**
 
 `Python` • `Scikit-Learn` • `NLP`
 
 ---
 
-## Starvation-Aware Traffic Signal Optimization
+### Starvation-Aware Traffic Signal Optimization
 
-Computer Vision project for adaptive traffic management.
+Vision-based adaptive traffic signal system using YOLOv8 for lane-wise vehicle detection and dynamic signal scheduling.
 
-### Highlights
+**Tech**
 
-- YOLOv8 vehicle detection
-- Dynamic signal scheduling
-- Lane density estimation
-- Emergency vehicle prioritization
-- Starvation prevention
-
-### Technologies
-
-`Python` • `YOLOv8` • `OpenCV` • `MySQL`
+`Python` • `OpenCV` • `YOLOv8` • `MySQL`
 
 ---
 
-# Current Learning Roadmap
+<img src="https://img.shields.io/badge/Technical_Stack-EAB308?style=for-the-badge"/>
 
-```
-Data Engineering      ████████████████████
-
-SQL                   ████████████████████
-
-Machine Learning      ████████████████
-
-Java                  ███████████████
-
-Spring Boot           ███████░░░░░░░
-```
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Java • Python • SQL |
+| **Data Engineering** | Apache Airflow • ETL Pipelines • Snowflake • Data Transformation |
+| **Databases** | MySQL • Snowflake • Milvus |
+| **Machine Learning** | Scikit-Learn • NLP • AI Embeddings • Vector Search |
+| **Analytics** | Power BI • Dashboard Development • KPI Reporting |
+| **Backend** | Spring Boot *(Learning)* • REST APIs |
 
 ---
 
-# 2026 Goals
+<img src="https://img.shields.io/badge/Experience-EAB308?style=for-the-badge"/>
 
-- Build production-ready ETL projects
-- Deepen SQL optimization skills
-- Learn Spring Boot for backend development
-- Strengthen Machine Learning fundamentals
-- Contribute consistently to open-source projects
-- Publish more engineering-focused repositories
+### Data Engineering Intern — Intellect Design Arena
+
+- Built ETL pipelines for financial datasets
+- Automated ingestion and transformation workflows
+- Performed data validation and quality checks
+- Improved reporting and analytics processes
 
 ---
 
-# Connect
+<img src="https://img.shields.io/badge/Certifications-EAB308?style=for-the-badge"/>
 
-GitHub
+- Oracle Cloud Infrastructure AI Foundations Associate
+- Oracle Cloud Infrastructure 2025 Generative AI Professional
+- Meta Backend Developer Professional Certificate
+- Java DSA (Udemy)
+
+---
+
+<img src="https://img.shields.io/badge/Currently_Building-EAB308?style=for-the-badge"/>
+
+- SQL Interview Preparation Repository
+- Spring Boot REST APIs
+- Java DSA
+- Data Engineering Portfolio Projects
+
+---
+
+<img src="https://img.shields.io/badge/Connect-EAB308?style=for-the-badge"/>
+
+**GitHub**
 
 https://github.com/oviya-m26
 
-LinkedIn
+**LinkedIn**
 
 https://linkedin.com/in/oviya-m-a390132a8
 
-LeetCode
+**LeetCode**
 
 https://leetcode.com/u/ovi2605/
 
 ---
 
+```java
+public class Engineer {
+
+    public static void main(String[] args) {
+
+        while (true) {
+
+            learn();
+
+            build();
+
+            improve();
+
+            repeat();
+
+        }
+    }
+}
+```
+
+<div align="center">
+
+*"Turning raw data into meaningful insights, one pipeline at a time."*
+
+</div>
